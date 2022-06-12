@@ -26,6 +26,9 @@
     },
     "isPublic": {
       "boolean": {}
+    },
+    "tag": {
+      "loremWord": {}
     }
   }
 }
